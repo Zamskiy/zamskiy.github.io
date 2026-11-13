@@ -1,16 +1,91 @@
 ---
 title: Вишлист
-date: 2026-11-14
+date: 2026-11-14T00:00:00.000Z
 layout: page
 ---
+# Что можно дарить, не боясь повториться
+
+Мягкие игрушки **Ослики**, сделанные руками дарителей или заказанные у тех, кто их делает.
+<p class="message">
+  Я их коллекционирую.
+	Поскольку я собираю коллекцию уже много лет, практически все масс-маркетные игрушки-ослы у меня уже есть, а уникальные никогда не перестанут быть интересны.
+</p>
+
+Фруктоноски в форме Ам-Няма
+<p class="message">
+Фруктоноска это такая пластиковая штука:
+	https://m.prostostore.ru/catalog/am-nyam-om-nom-fruktonoska.html
+	Я собираю табун Ам-Нямов в этом форм-факторе. Они бывают с разной покраской, мне подходят любые. Сейчас в табуне 15 особей, я готов довести это количество до сотни.
+</p>
+
+Блокноты из каменной бумаги
+- но не скетчбуки
+- с переплетом, а не с внешней пружиной
+
+
+# Книги
+
+
+Бессмысленно дорогое факсимильное издание Лавкрафта:
+www.spbooks.com/155-at-the-mountains-of-madness-9791095457152.html
+
+
+# Материальные предметы
+
+**CRKD Nitro Deck**
+https://crkd.gg/pages/nitro-deck
+https://ozon.by/product/crkd-nitro-deck-professionalnaya-portativnaya-deck-effekt-holla-dzhoystik-nulevoy-dreyf-steka-1383202699/
+
+<p class="message">
+Ссылки здесь и далее даются, чтобы можно было опознать предмет (и иногда напомнить мне самому, что эти предметы можно купить на нашей стороне планеты). Покупать их можно не по этим ссылкам, а по любым на свете.
+</p>
+
+**Prophecy Dice**
+https://dragonstonegaming.com/products/prophecy-dice
+
+**Pebble Index**
+https://repebble.com/index
+
+**Необъяснимо привлекательная сумка-органайзер**: 
+https://muudstore.com/products/betina-knit
+
+**Феррожидкостная ритм-лампа**
+Больше всего мне нравятся те, что круглые и на ножках:
+https://lumiosastore.com/products/ferrofluid-music-visualizer-lamp-not-speaker
+Они еще могут называться ferrofluid visualizer, ferrofluid lamp, Magnetic rhythm lamp и так далее, и паковаться в корпуса любой формы; их производит миллион китайских вендоров, наверняка есть похуже и получше, есть "temu-level" и поприличнее, поэтому даю ссылку не на конкретный объект, а на видео "как это выглядит":
+https://www.youtube.com/watch?v=iDJUvMZP5YM
+
+
+
+
+
+
+# Дорогущие предметы, которые «сам себе не купишь»
+
+<p class="message">
+Большинство из них значительно дороже того, что вы готовы потратить на подарок (если только вы не случайно заглянувший на эту страницу миллионер), но глупо не держать предметы, которые очень хочешь получить, в вишлисте, верно?
+</p>
+
+**Freewrite**:
+https://getfreewrite.com/products/freewrite-smart-typewriter-3rd-gen
+или
+https://getfreewrite.com/products/alpha
+
+**Колонки IK Multimedia iLoud Micro**
+https://catalog.onliner.by/studio_monitor/ikmultimedia/iloudmicro
+https://doctorhead.ru/product/ik_multimedia_iloud_micro_monitor/
+
+**Шрути бокс**:
+https://www.tekadum.by/node/431
+https://kirtan.pro/product-category/shruti-boksy/
+
+**Синтезатор Op-Z**
+https://teenage.engineering/products/op-z
+
+**Подушка Blue Sleep с памятью**
+https://bluesleep.ru/catalog/pillow/tulip_pillow/
+
+
 <p class="message">
   Проверка страницы для будущего вишлиста
 </p>
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](https://jekyllrb.com)
-
-Thanks for reading!
