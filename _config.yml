@@ -1,17 +1,17 @@
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'Test theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
+title:               Атанор
+tagline:             'сюда я бросаю странички'
+description:         'a hidden drawer'
+url:                 https://zamskiy.github.io/
 baseurl:             ''
 paginate:            5
 permalink:           pretty
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Alexey Zamskiy
+  url:               https://twitter.com/zamskiy
+  email:             zamskiy@gmail.com
 
 # Gems
 plugins:
