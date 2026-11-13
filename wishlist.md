@@ -14,7 +14,7 @@ layout: page
 * **Фруктоноски в форме Ам-Няма**
 <p class="message">
 Фруктоноска это такая пластиковая штука:<br />
-	<https://m.prostostore.ru/catalog/am-nyam-om-nom-fruktonoska.html> <br />
+[https://m.prostostore.ru/catalog/am-nyam-om-nom-fruktonoska.html](https://m.prostostore.ru/catalog/am-nyam-om-nom-fruktonoska.html)<br />
 	Я собираю табун Ам-Нямов в этом форм-факторе. Они бывают с разной покраской, мне подходят любые. Сейчас в табуне 15 особей, я готов довести это количество до сотни.
 </p>
 <br />
