@@ -11,13 +11,11 @@ layout: page
 	Поскольку я собираю коллекцию уже много лет, практически все масс-маркетные игрушки-ослы у меня уже есть, а уникальные никогда не перестанут быть интересны.
 </p>
 <br />
-[https://m.prostostore.ru/catalog/am-nyam-om-nom-fruktonoska.html](https://m.prostostore.ru/catalog/am-nyam-om-nom-fruktonoska.html)<br />
 
 * **Фруктоноски в форме Ам-Няма**
-<p class="message">
-Фруктоноска это такая пластиковая штука:<br />
 [https://m.prostostore.ru/catalog/am-nyam-om-nom-fruktonoska.html](https://m.prostostore.ru/catalog/am-nyam-om-nom-fruktonoska.html)<br />
-	Я собираю табун Ам-Нямов в этом форм-факторе. Они бывают с разной покраской, мне подходят любые. Сейчас в табуне 15 особей, я готов довести это количество до сотни.
+<p class="message">
+Фруктоноска это такая пластиковая штука. Я собираю табун Ам-Нямов в этом форм-факторе. Они бывают с разной покраской, мне подходят любые. Сейчас в табуне 15 особей, я готов довести это количество до сотни.
 </p>
 <br />
 * **Блокноты из каменной бумаги**<br />
@@ -30,10 +28,9 @@ layout: page
 **Что хочется иметь на бумаге**:<br />
 <br />
 * Бессмысленно дорогое факсимильное издание Лавкрафта <br />
-www.spbooks.com/155-at-the-mountains-of-madness-9791095457152.html<br />
+[www.spbooks.com/155-at-the-mountains-of-madness-9791095457152.html](www.spbooks.com/155-at-the-mountains-of-madness-9791095457152.html)<br />
  <br />
  
-
 **Что я хочу получить или на бумаге, или электронную версию DRM-free**: <br />
  <br />
 <p class="message">
@@ -41,40 +38,42 @@ www.spbooks.com/155-at-the-mountains-of-madness-9791095457152.html<br />
 </p>
  <br />
 «Энтропия параболы» <br />
-(https://fantlab.ru/edition482557) <br />
+[https://fantlab.ru/edition482557](https://fantlab.ru/edition482557) <br />
  <br />
 «Улитка на склоне. Опыт академического издания» <br />
-(https://fantlab.ru/edition8056) <br />
+[https://fantlab.ru/edition8056](https://fantlab.ru/edition8056) <br />
  <br />
  
 * **«Деревенский детектив» в издании Миллиорк**  <br />
-(https://fantlab.ru/edition406761) <br />
+[https://fantlab.ru/edition406761](https://fantlab.ru/edition406761) <br />
 <br />
 <p class="message">
 Именно это издание, все остальные неполные (да, ВСЕ остальные!)
 </p>
 <br />
 * **Бодлер «Об искусстве» в издании «Искусства» 1986 года**  <br />
-(https://fantlab.ru/edition373511)  <br />
+[https://fantlab.ru/edition373511](https://fantlab.ru/edition373511)  <br />
  <br />
+* **Антология «Поэты Первой мировой», оба тома**  <br />
+[Антология «Поэты Первой мировой»](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%8D%D1%82%D1%8B_%D0%9F%D0%B5%D1%80%D0%B2%D0%BE%D0%B9_%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%B9_(%D1%81%D0%B5%D1%80%D0%B8%D1%8F)  <br />
+<br />
 
- 
 
 # Материальные предметы
 
 * **CRKD Nitro Deck**  <br />
-https://crkd.gg/pages/nitro-deck <br />
-https://ozon.by/product/crkd-nitro-deck-professionalnaya-portativnaya-deck-effekt-holla-dzhoystik-nulevoy-dreyf-steka-1383202699/ <br />
+[https://crkd.gg/pages/nitro-deck](https://crkd.gg/pages/nitro-deck) <br />
+[https://ozon.by/product/crkd-nitro-deck-professionalnaya-portativnaya-deck-effekt-holla-dzhoystik-nulevoy-dreyf-steka-1383202699/](https://ozon.by/product/crkd-nitro-deck-professionalnaya-portativnaya-deck-effekt-holla-dzhoystik-nulevoy-dreyf-steka-1383202699/) <br />
 
 <p class="message">
 Ссылки здесь и далее даются, чтобы можно было опознать предмет (и иногда напомнить мне самому, что эти предметы можно купить на нашей стороне планеты). Покупать их можно не по этим ссылкам, а по любым на свете.
 </p>
 
 * **Prophecy Dice**  <br />
-https://dragonstonegaming.com/products/prophecy-dice <br />
+[https://dragonstonegaming.com/products/prophecy-dice](https://dragonstonegaming.com/products/prophecy-dice) <br />
 
 * **Lucid Tarot от Weatherfactory**  <br />
-https://weatherfactory.biz/the-lucid-tarot/ <br />
+[https://weatherfactory.biz/the-lucid-tarot/](https://weatherfactory.biz/the-lucid-tarot/) <br />
 
 * **Pebble Index**  <br />
 https://repebble.com/index <br />
