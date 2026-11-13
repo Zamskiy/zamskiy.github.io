@@ -4,7 +4,7 @@ tagline:             'алхимическая печь где-то в обла�
 description:         'сюда я бросаю странички'
 url:                 https://zamskiy.github.io/
 baseurl:             ''
-paginate:            5
+paginate:            6
 permalink:           pretty
 
 # About/contact
