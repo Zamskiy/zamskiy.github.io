@@ -11,6 +11,8 @@ layout: page
 	Поскольку я собираю коллекцию уже много лет, практически все масс-маркетные игрушки-ослы у меня уже есть, а уникальные никогда не перестанут быть интересны.
 </p>
 <br />
+[https://m.prostostore.ru/catalog/am-nyam-om-nom-fruktonoska.html](https://m.prostostore.ru/catalog/am-nyam-om-nom-fruktonoska.html)<br />
+
 * **Фруктоноски в форме Ам-Няма**
 <p class="message">
 Фруктоноска это такая пластиковая штука:<br />
