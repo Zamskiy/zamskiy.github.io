@@ -14,7 +14,7 @@ layout: page
 * **Фруктоноски в форме Ам-Няма**
 <p class="message">
 Фруктоноска это такая пластиковая штука:<br />
-	https://m.prostostore.ru/catalog/am-nyam-om-nom-fruktonoska.html <br />
+	(https://m.prostostore.ru/catalog/am-nyam-om-nom-fruktonoska.html) <br />
 	Я собираю табун Ам-Нямов в этом форм-факторе. Они бывают с разной покраской, мне подходят любые. Сейчас в табуне 15 особей, я готов довести это количество до сотни.
 </p>
 <br />
@@ -28,7 +28,7 @@ layout: page
 
 **Что хочется иметь на бумаге**:<br />
 <br />
-* Бессмысленно дорогое факсимильное издание Лавкрафта: <br />
+* Бессмысленно дорогое факсимильное издание Лавкрафта <br />
 www.spbooks.com/155-at-the-mountains-of-madness-9791095457152.html<br />
 
  
@@ -62,7 +62,7 @@ https://weatherfactory.biz/the-lucid-tarot/ <br />
 * **Pebble Index**  <br />
 https://repebble.com/index <br />
 
-* **Необъяснимо привлекательная сумка-органайзер**:   <br />
+* **Необъяснимо привлекательная сумка-органайзер**   <br />
 https://muudstore.com/products/betina-knit <br />
 
 * **Феррожидкостная ритм-лампа**  <br />
@@ -70,9 +70,28 @@ https://muudstore.com/products/betina-knit <br />
 https://lumiosastore.com/products/ferrofluid-music-visualizer-lamp-not-speaker <br />
 Они еще могут называться ferrofluid visualizer, ferrofluid lamp, Magnetic rhythm lamp и так далее, и паковаться в корпуса любой формы; их производит миллион китайских вендоров, наверняка есть похуже и получше, есть "temu-level" и поприличнее, поэтому даю ссылку не на конкретный объект, а на видео "как это выглядит": <br />
 https://www.youtube.com/watch?v=iDJUvMZP5YM <br />
+ <br />
+* **Пластмассовая сабля от Black Fencer** <br />
+ <br />
+1864 Bowl Gymnasium Sword V2 <br />
+https://blackfencer.com/en/63-like-steel-waster-saber-v2.html <br />
+1796 infantry Sabre с рукояткой Polish guard <br />
+ https://blackfencer.com/en/11-446-like-steel-waster-saber-v2.html <br />
+ <br />
+
+* **Clippy XLR EM272Z1 Matched Stereo Pair** <br />
+https://micbooster.com/product/xlr-stereo-clippy-em272-microphone/ <br />
+
+* **Вообще хорошие петличные микрофоны с XLR-разъемом** <br />
+Например: <br />
+https://fotoland.by/Mikrofony/boya-by-m4c-professionalnyj-kardioidnyj-petlichnyj-mikrofon-s-xlr-razyomom-/ <br />
+<p class="message">
+У меня есть отличный портативный рекордер под четыре XLR-разъема и вокруг меня - бесконечное количество петличных микрофонов на миниджек. Это ужасно неудобное противоречие.
+</p>
 
 
-**Диски для Плейстейшен-4**:
+
+# Диски для Плейстейшен-4:
 
 <p class="message">
 Или просто дайте поиграть! :)
@@ -113,7 +132,23 @@ https://teenage.engineering/products/op-z <br />
 * **Подушка Blue Sleep с памятью** <br />
 https://bluesleep.ru/catalog/pillow/tulip_pillow/ <br />
  <br />
+* **Набор для полевых записей**  <br />
+https://micbooster.com/product/stereo-field-recording-kit-with-xlr-clippy-microphones/ <br />
+<p class="message">
+Необязательно буквально этот, но аналогичный по функционалу.
+</p>
+ <br />
+* **Гитара Lava Genie** <br />
+https://www.lavamusic.com/lava-genie <br />
 
+
+
+
+* **заголовок**  <br />
+ссылка  <br />
+ <br />
+
+ <br />
 <p class="message">
   Проверка страницы для будущего вишлиста
 </p>
