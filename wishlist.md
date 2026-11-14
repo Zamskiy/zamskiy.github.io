@@ -30,6 +30,9 @@ layout: page
 * **«Броня и блеск. Искусство власти. Доспехи Ренессанса»** <br />
 [https://slovobooks.ru/catalog/bronya_i_blesk_iskusstvo_vlasti_dospekhi_renessansa/](https://slovobooks.ru/catalog/bronya_i_blesk_iskusstvo_vlasti_dospekhi_renessansa/)<br />
  <br />
+ * **«Европейская охота и охотничье оружие от Средневековья до конца XVIII века»**  <br />
+[https://www.labirint.ru/books/486643/](https://www.labirint.ru/books/486643/)  <br />
+
  
 ***Что я хочу получить или на бумаге, или электронную версию DRM-free***: <br />
  <br />
@@ -103,6 +106,12 @@ layout: page
 <p class="message">
 У меня есть отличный портативный рекордер под четыре XLR-разъема и вокруг меня - бесконечное количество петличных микрофонов на миниджек. Это ужасно неудобное противоречие.
 </p>
+* **Наушники Grado SR60x**  <br />
+[https://catalog.onliner.by/headphones/gradolabs/gradosr60x](https://catalog.onliner.by/headphones/gradolabs/gradosr60x)  <br />
+* **Гадальные карты "Дом, в котором..."**  <br />
+[https://vk.ru/market/product/gadalnye-karty-quotdom-v-kotoromquot-7304400-6610977](https://vk.ru/market/product/gadalnye-karty-quotdom-v-kotoromquot-7304400-6610977)  <br />
+
+
 
 # Диски для Плейстейшен-4:
 <p class="message">
@@ -134,5 +143,11 @@ https://en.wikipedia.org/wiki/Metaphor:_ReFantazio <br />
 * **Набор для полевых записей**  <br />
 Необязательно буквально этот, но аналогичный по функционалу. <br />
 [https://micbooster.com/product/stereo-field-recording-kit-with-xlr-clippy-microphones/](https://micbooster.com/product/stereo-field-recording-kit-with-xlr-clippy-microphones/) <br />
+* **Микрофон Rode NTG2**  <br />
+[https://piano.by/zvukovoe-oborudovanie/mikrofony/rode/ntg2](https://piano.by/zvukovoe-oborudovanie/mikrofony/rode/ntg2)  <br />
 * **Гитара Lava Genie** <br />
 [https://www.lavamusic.com/lava-genie](https://www.lavamusic.com/lava-genie) <br />
+* **Гитара Enya NOVA GO/SP1.PL**  <br />
+[https://muzzone.by/products/transakusticheskaya-gitara-enya-nova-go-sp1-pl/](https://muzzone.by/products/transakusticheskaya-gitara-enya-nova-go-sp1-pl/)  <br />
+* **Наушники Austrian Audio Hi-X55**  <br />
+[https://austrian.audio/product/hi-x55/](https://austrian.audio/product/hi-x55/)  <br />
