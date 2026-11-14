@@ -67,6 +67,23 @@ layout: page
 [https://fantlab.ru/edition493921](https://fantlab.ru/edition493921)  <br />
  <br />
 
+* **Шарль Нодье - История короля Богемии и его семи замков (Литпамятники)**  <br />
+[https://ozon.by/product/istoriya-korolya-bogemii-i-ego-semi-zamkov-node-sharl-5793021755/?from=share_web&perehod=smm_share_button_productpage_link&sh=nE8Hf-If-A&short=EIOBhBR](https://ozon.by/product/istoriya-korolya-bogemii-i-ego-semi-zamkov-node-sharl-5793021755/?from=share_web&perehod=smm_share_button_productpage_link&sh=nE8Hf-If-A&short=EIOBhBR)  <br />
+ <br />
+
+ * **We Are The Martians: The Legacy of Nigel Kneale**  <br />
+[https://www.amazon.com/We-Are-Martians-Legacy-Kneale/dp/1786361035](https://www.amazon.com/We-Are-Martians-Legacy-Kneale/dp/1786361035)  <br />
+ <br />
+* **Of Mud and Flame: A Penda's Fen Sourcebook**  <br />
+[https://www.amazon.com/dp/1907222685/](https://www.amazon.com/dp/1907222685/)  <br />
+ <br />
+* **A Cthulhu Mythos Bibliography & Concordance**  <br />
+[https://www.amazon.com/dp/1887797017/](https://www.amazon.com/dp/1887797017/)  <br />
+ <br />
+* **Brighter Than You Think: 10 Short Works by Alan Moore**  <br />
+[https://www.amazon.com/dp/1941250122/](https://www.amazon.com/dp/1941250122/)  <br />
+ <br />
+
 # Материальные предметы
 
 * **CRKD Nitro Deck**  <br />
