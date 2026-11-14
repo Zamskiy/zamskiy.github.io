@@ -12,7 +12,7 @@ layout: page
 </p>
 <br />
 
-* **Фруктоноски в форме Ам-Няма**
+* **Фруктоноски в форме Ам-Няма**<br />
 [https://m.prostostore.ru/catalog/am-nyam-om-nom-fruktonoska.html](https://m.prostostore.ru/catalog/am-nyam-om-nom-fruktonoska.html)<br />
 <p class="message">
 Фруктоноска это такая пластиковая штука. Я собираю табун Ам-Нямов в этом форм-факторе. Они бывают с разной покраской, мне подходят любые. Сейчас в табуне 15 особей, я готов довести это количество до сотни.
@@ -25,22 +25,27 @@ layout: page
 
 # Книги
 
-**Что хочется иметь на бумаге**:<br />
+***Что хочется иметь на бумаге***:<br />
 <br />
 * Бессмысленно дорогое факсимильное издание Лавкрафта <br />
 [www.spbooks.com/155-at-the-mountains-of-madness-9791095457152.html](www.spbooks.com/155-at-the-mountains-of-madness-9791095457152.html)<br />
  <br />
+* **«Броня и блеск. Искусство власти. Доспехи Ренессанса»** <br />
+[https://slovobooks.ru/catalog/bronya_i_blesk_iskusstvo_vlasti_dospekhi_renessansa/](https://slovobooks.ru/catalog/bronya_i_blesk_iskusstvo_vlasti_dospekhi_renessansa/)<br />
+ <br />
  
-**Что я хочу получить или на бумаге, или электронную версию DRM-free**: <br />
+ 
+ 
+***Что я хочу получить или на бумаге, или электронную версию DRM-free***: <br />
  <br />
 <p class="message">
 Нет уверенности, что у этих книг есть/остались/продаются цифровые версии, но если вы вдруг каким-то образом добудете издательский макет или отсканируете свой экземпляр - это прекрасный подарок.
 </p>
  <br />
-«Энтропия параболы» <br />
+* **«Энтропия параболы»** <br />
 [https://fantlab.ru/edition482557](https://fantlab.ru/edition482557) <br />
  <br />
-«Улитка на склоне. Опыт академического издания» <br />
+* **«Улитка на склоне. Опыт академического издания»** <br />
 [https://fantlab.ru/edition8056](https://fantlab.ru/edition8056) <br />
  <br />
  
@@ -58,6 +63,9 @@ layout: page
 [Антология «Поэты Первой мировой»](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%8D%D1%82%D1%8B_%D0%9F%D0%B5%D1%80%D0%B2%D0%BE%D0%B9_%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%B9_(%D1%81%D0%B5%D1%80%D0%B8%D1%8F)  <br />
 <br />
 
+* **«Легенда о Карагай. Роман в 40 некрологах»**  <br />
+[https://fantlab.ru/edition493921](https://fantlab.ru/edition493921)  <br />
+ <br />
 
 # Материальные предметы
 
@@ -72,35 +80,44 @@ layout: page
 * **Prophecy Dice**  <br />
 [https://dragonstonegaming.com/products/prophecy-dice](https://dragonstonegaming.com/products/prophecy-dice) <br />
 
+* **Резной бильярдный шар от Etomimiki** <br />
+[https://www.instagram.com/etomimiki/](https://www.instagram.com/etomimiki/)  <br />
+ <br />
+
 * **Lucid Tarot от Weatherfactory**  <br />
 [https://weatherfactory.biz/the-lucid-tarot/](https://weatherfactory.biz/the-lucid-tarot/) <br />
 
 * **Pebble Index**  <br />
-https://repebble.com/index <br />
+[https://repebble.com/index](https://repebble.com/index) <br />
 
 * **Необъяснимо привлекательная сумка-органайзер**   <br />
-https://muudstore.com/products/betina-knit <br />
+[https://muudstore.com/products/betina-knit](https://muudstore.com/products/betina-knit) <br />
 
 * **Феррожидкостная ритм-лампа**  <br />
 Больше всего мне нравятся те, что круглые и на ножках: <br />
-https://lumiosastore.com/products/ferrofluid-music-visualizer-lamp-not-speaker <br />
+[https://lumiosastore.com/products/ferrofluid-music-visualizer-lamp-not-speaker](https://lumiosastore.com/products/ferrofluid-music-visualizer-lamp-not-speaker) <br />
 Они еще могут называться ferrofluid visualizer, ferrofluid lamp, Magnetic rhythm lamp и так далее, и паковаться в корпуса любой формы; их производит миллион китайских вендоров, наверняка есть похуже и получше, есть "temu-level" и поприличнее, поэтому даю ссылку не на конкретный объект, а на видео "как это выглядит": <br />
-https://www.youtube.com/watch?v=iDJUvMZP5YM <br />
+[https://www.youtube.com/watch?v=iDJUvMZP5YM](https://www.youtube.com/watch?v=iDJUvMZP5YM) <br />
  <br />
+ 
+ * **Колонка Divoom MiniToo**  <br />
+[https://divoom.com/products/minitoo](https://divoom.com/products/minitoo)  <br />
+ <br />
+ 
 * **Пластмассовая сабля от Black Fencer** <br />
  <br />
 1864 Bowl Gymnasium Sword V2 <br />
-https://blackfencer.com/en/63-like-steel-waster-saber-v2.html <br />
+[https://blackfencer.com/en/63-like-steel-waster-saber-v2.html](https://blackfencer.com/en/63-like-steel-waster-saber-v2.html) <br />
 1796 infantry Sabre с рукояткой Polish guard <br />
- https://blackfencer.com/en/11-446-like-steel-waster-saber-v2.html <br />
+ [https://blackfencer.com/en/11-446-like-steel-waster-saber-v2.html](https://blackfencer.com/en/11-446-like-steel-waster-saber-v2.html) <br />
  <br />
 
 * **Clippy XLR EM272Z1 Matched Stereo Pair** <br />
-https://micbooster.com/product/xlr-stereo-clippy-em272-microphone/ <br />
+[https://micbooster.com/product/xlr-stereo-clippy-em272-microphone/](https://micbooster.com/product/xlr-stereo-clippy-em272-microphone/) <br />
 
 * **Вообще хорошие петличные микрофоны с XLR-разъемом** <br />
 Например: <br />
-https://fotoland.by/Mikrofony/boya-by-m4c-professionalnyj-kardioidnyj-petlichnyj-mikrofon-s-xlr-razyomom-/ <br />
+[https://fotoland.by/Mikrofony/boya-by-m4c-professionalnyj-kardioidnyj-petlichnyj-mikrofon-s-xlr-razyomom-/](https://fotoland.by/Mikrofony/boya-by-m4c-professionalnyj-kardioidnyj-petlichnyj-mikrofon-s-xlr-razyomom-/) <br />
 <p class="message">
 У меня есть отличный портативный рекордер под четыре XLR-разъема и вокруг меня - бесконечное количество петличных микрофонов на миниджек. Это ужасно неудобное противоречие.
 </p>
@@ -130,29 +147,29 @@ https://en.wikipedia.org/wiki/Metaphor:_ReFantazio <br />
 </p>
 
 * **Freewrite**: <br />
-https://getfreewrite.com/products/freewrite-smart-typewriter-3rd-gen <br />
+[https://getfreewrite.com/products/freewrite-smart-typewriter-3rd-gen](https://getfreewrite.com/products/freewrite-smart-typewriter-3rd-gen) <br />
 или <br />
-https://getfreewrite.com/products/alpha <br />
+[https://getfreewrite.com/products/alpha](https://getfreewrite.com/products/alpha) <br />
  <br />
 * **Колонки IK Multimedia iLoud Micro** <br />
-https://catalog.onliner.by/studio_monitor/ikmultimedia/iloudmicro <br />
-https://doctorhead.ru/product/ik_multimedia_iloud_micro_monitor/ <br />
+[https://catalog.onliner.by/studio_monitor/ikmultimedia/iloudmicro](https://catalog.onliner.by/studio_monitor/ikmultimedia/iloudmicro) <br />
+[https://doctorhead.ru/product/ik_multimedia_iloud_micro_monitor/](https://doctorhead.ru/product/ik_multimedia_iloud_micro_monitor/) <br />
  <br />
 * **Шрути бокс**: <br />
-https://www.tekadum.by/node/431 <br />
-https://kirtan.pro/product-category/shruti-boksy/ <br />
+[https://www.tekadum.by/node/431](https://www.tekadum.by/node/431) <br />
+[https://kirtan.pro/product-category/shruti-boksy/](https://kirtan.pro/product-category/shruti-boksy/) <br />
  <br />
 * **Синтезатор Op-Z** <br />
-https://teenage.engineering/products/op-z <br />
+[https://teenage.engineering/products/op-z](https://teenage.engineering/products/op-z) <br />
  <br />
 * **Подушка Blue Sleep с памятью** <br />
-https://bluesleep.ru/catalog/pillow/tulip_pillow/ <br />
+[https://bluesleep.ru/catalog/pillow/tulip_pillow/](https://bluesleep.ru/catalog/pillow/tulip_pillow/) <br />
  <br />
 * **Набор для полевых записей**  <br />
-https://micbooster.com/product/stereo-field-recording-kit-with-xlr-clippy-microphones/ <br />
+[https://micbooster.com/product/stereo-field-recording-kit-with-xlr-clippy-microphones/](https://micbooster.com/product/stereo-field-recording-kit-with-xlr-clippy-microphones/) <br />
 <p class="message">
 Необязательно буквально этот, но аналогичный по функционалу.
 </p>
  <br />
 * **Гитара Lava Genie** <br />
-https://www.lavamusic.com/lava-genie <br />
+[https://www.lavamusic.com/lava-genie](https://www.lavamusic.com/lava-genie) <br />
